@@ -13,15 +13,13 @@
 @property (weak, nonatomic) IBOutlet UISlider *beerCountSlider;
 @property (weak, nonatomic) IBOutlet UILabel *resultLabel;
 
-            
-
 @end
 
 @implementation ViewController
             
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    [self.beerPercentTextField becomeFirstResponder]; // so the text field is auto selected
 }
 
 - (void)didReceiveMemoryWarning {

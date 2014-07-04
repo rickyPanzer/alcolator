@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CC67B47E-7277-4945-A806-2D59337A4594</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Alcolator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C97638F1-CDED-407E-BCB5-45722EFE560E</key>
+		<string>https://github.com/jordanhudgens/alcolator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Alcolator.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C97638F1-CDED-407E-BCB5-45722EFE560E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jordanhudgens/alcolator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C97638F1-CDED-407E-BCB5-45722EFE560E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C97638F1-CDED-407E-BCB5-45722EFE560E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Alcolator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
